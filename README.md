@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranveer</h1>
-<h3 align="center">An INQUISITIVE Student With A Growth Mindset.</h3>
+<h3 align="center">Student With A Growth Mindset.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ran-veer&label=Profile%20views&color=0e75b6&style=flat" alt="ran-veer" /> </p>
 
 - 🌱 I’m currently learning **Full Stack JavaScript Web Development**
