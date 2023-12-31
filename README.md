@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **ranveerfifawc@gmail.com**
+- 📫 How to reach me **rk709042@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ran-veer&show_icons=true&locale=en&layout=compact" alt="ran-veer" /></p>
